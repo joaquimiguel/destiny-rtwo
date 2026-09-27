@@ -172,3 +172,7 @@ out/
 KernelSU/
 KernelSU-Next/
 drivers/kernelsu/
+
+# Ak3
+AnyK*/*zip
+AnyK*/Image
