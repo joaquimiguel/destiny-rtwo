@@ -164,3 +164,11 @@ arch/*/configs/vendor/*_defconfig
 
 # Documentation toolchain
 sphinx_*/
+
+# Out
+out/
+
+# KernelSU
+KernelSU/
+KernelSU-Next/
+drivers/kernelsu/
